@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mamma Mia",
+        "tipo_cocina": "Italiana",
+        "ingredientes": [
+            "harina",
+            "tomate",
+            "carnes",
+            "huevos"
+        ],
+        "precio_minimo": 1800,
+        "precio_maximo": 5000,
+        "popularidad": 4.2,
+        "disponibilidad": true,
+        "ubicacion": 1,
+        "imagen": "imagen1"
+    }
+]

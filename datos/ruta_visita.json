@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Salta centro",
+        "destinos": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Salta sur",
+        "destinos": [
+            4,
+            5,
+            6
+        ]
+    }
+]
